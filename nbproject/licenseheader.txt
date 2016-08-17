@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Cargo test task.
+${licensePrefix}@author Borshchov Dimitriy <grimstal@bigmir.net>
+<#if licenseLast??>
+${licenseLast}
+</#if>
